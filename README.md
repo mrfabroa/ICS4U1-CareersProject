@@ -1,1 +1,1 @@
-# ICS4U1-CareersProject
+# Careers in Computer Science
